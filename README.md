@@ -14,3 +14,5 @@ python3 -m pip install -e .
 ## 声明
 
 只是自己使用而已，安全性/可靠性无保证。
+
+其中 `mkdocs-toc-plugin` 改自[tonycrane](https://github.com/TonyCrane/mkdocs-toolchain/tree/master/mkdocs-toc-plugin) 。
